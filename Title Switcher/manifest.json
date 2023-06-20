@@ -1,0 +1,181 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§6随心定义你的游戏徽标!\n§c注意: 游戏徽标可通过资源包右下方的设置按钮更改,初始为游戏默认.\n§6版本: 1.0.0\n作者: Minecraft Kit开发团队§r",
+        "name": "§e徽标切换器§r",
+        "uuid": "6dc74606-bbd7-09d1-f0dc-daf7138434f8",
+        "version": [1,0,0],
+        "min_engine_version":[1,2,5]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "7f2ccc24-d340-58fa-2cd6-a57384ec4ee6",
+            "version": [1,0,0]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "1.12",
+            "name": " §c版本更新主题 §g村庄与掠夺更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "1.16-1",
+            "name": " §c版本更新主题 §g下界更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "1.16-2",
+            "name": " §c版本更新主题 §g下界更新(新)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "1.17",
+            "name": " §c版本更新主题 §g洞穴与山崖",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "1.19",
+            "name": " §c版本更新主题 §g荒野更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "1.20",
+            "name": " §c版本更新主题 §g足迹与故事",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "classic",
+            "name": " §c携带版 §g经典徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "bedrock_old",
+            "name": " §c基岩版 §g旧版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "bedrock",
+            "name": " §c基岩版 §g新版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "beta",
+            "name": " §c基岩版 §g测试版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "preview_old",
+            "name": " §c基岩版 §g预览版徽标(旧)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "preview",
+            "name": " §c基岩版 §g预览版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "minceraft",
+            "name": " §c彩蛋 §g0.01%!",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "be",
+            "name": " §c基岩版 §g带有副标题的新徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "je",
+            "name": " §cJava版 §g带有副标题的新徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "education_old",
+            "name": " §c教育版 §g旧版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "education",
+            "name": " §c教育版 §g新版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "dungeons",
+            "name": " §c地下城 §g原版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "legends",
+            "name": " §c传奇 §g原版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "legends_pro",
+            "name": " §c传奇 §g豪华版徽标",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "default",
+            "name": " §g默认",
+            "memory_tier": 1
+        }
+        /*{
+            "folder_name": "文件夹名称",
+            "name": " 显示的名称",
+            "memory_tier": 1
+        },
+        如需添加子包请参考此格式*/
+    ],
+    
+    "settings": [
+    {
+	  "type": "label",
+	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 切换游戏首页徽标§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
+	},
+    /*{
+	  "type": "slider",
+	  "text": "滑条",
+	  "name": "this_is_a_slider",
+	  "min": 1,
+	  "max": 20,
+	  "default": 1
+    },*/
+    /*{
+	  "type": "step_slider",
+	  "text": "滑块",
+	  "name": "this_is_a_step_slider",
+	  "steps": [
+	    "选项1",
+		"选项2",
+		"选项3",
+		"选项4",
+		"选项5"
+	  ],
+	  "default": 1
+    },
+    {
+	  "type": "toggle",
+	  "text": "附加功能",
+	  "name": "this_is_a_toggle",
+	  "default": true
+    },
+    {
+	  "type": "dropdown",
+	  "text": "选项",
+	  "name": "this_is_a_dropdown",
+	  "options": [
+	    "选项1",
+		"选项2",
+		"选项3"
+	  ],
+	  "default": 0
+    },*/
+    {
+	  "type": "input",
+	  "text": "自定义内容",
+	  "name": "this_is_a_input",
+	  "default": "在此输入.."
+    }
+  ]
+}

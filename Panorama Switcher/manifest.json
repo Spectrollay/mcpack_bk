@@ -1,0 +1,201 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§6随心定义你的游戏首页!\n§c注意: 全景图可通过资源包右下方的设置按钮更改,初始为游戏默认.\n§6版本: 1.0.0\n作者: Minecraft Kit开发团队§r",
+        "name": "§e全景图切换器§r",
+        "uuid": "66ee3713-9f30-abdd-5863-56c333e4667e",
+        "version": [1,0,0],
+        "min_engine_version":[1,2,5]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "2274d736-a8fb-9c1f-6f6f-7217773e7416",
+            "version": [1,0,0]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "edu_EE_HOC2023",
+            "name": " §c教育版 §g编程一小时: 逃出迷宅",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11832",
+            "name": " §c教育版 §g1.18.32 Mobile, Multiplayer & More",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11730",
+            "name": " §c教育版 §g1.17.30 山羊更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11450",
+            "name": " §c教育版 §g1.14.50",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11431",
+            "name": " §c教育版 §g1.14.31",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11430",
+            "name": " §c教育版 §g1.14.30",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11200",
+            "name": " §c教育版 §g1.12.0",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "classic",
+            "name": " §c携带版 §g经典原版",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "bedrock",
+            "name": " §c基岩版 §g1.2-1.4 独乐不如众乐更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "aquatic",
+            "name": " §c基岩版 §g1.5-1.7 水域更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "panda",
+            "name": " §c基岩版 §g1.8-1.11 熊猫更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "village",
+            "name": " §c基岩版 §g1.10-1.13 村庄与掠夺",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "bee_old",
+            "name": " §c基岩版 §g1.14.0.1 嗡嗡蜂群测试版",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "bee",
+            "name": " §c基岩版 §g1.14-1.15 嗡嗡蜂群",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "nether",
+            "name": " §c基岩版 §g1.16 下界更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "cave",
+            "name": " §c基岩版 §g1.17 洞穴与山崖(第一阶段)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "cliff",
+            "name": " §c基岩版 §g1.18 洞穴与山崖(第二阶段)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "wild",
+            "name": " §c基岩版 §g1.19 荒野更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "story",
+            "name": " §c基岩版 §g1.20 足迹与故事",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "Christmas_2017",
+            "name": " §g2017年圣诞节",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "Halloween_2021",
+            "name": " §g2021年万圣节",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "Halloween_2022",
+            "name": " §g2022年万圣节",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "beta",
+            "name": " §gBeta版",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "preview",
+            "name": " §gPreview版",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "default",
+            "name": " §g默认",
+            "memory_tier": 1
+        }
+        /*{
+            "folder_name": "文件夹名称",
+            "name": " 显示的名称",
+            "memory_tier": 1
+        },
+        如需添加子包请参考此格式*/
+    ],
+    
+    "settings": [
+    {
+	  "type": "label",
+	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 切换游戏首页全景图§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
+	},
+    /*{
+	  "type": "slider",
+	  "text": "滑条",
+	  "name": "this_is_a_slider",
+	  "min": 1,
+	  "max": 20,
+	  "default": 1
+    },*/
+    /*{
+	  "type": "step_slider",
+	  "text": "滑块",
+	  "name": "this_is_a_step_slider",
+	  "steps": [
+	    "选项1",
+		"选项2",
+		"选项3",
+		"选项4",
+		"选项5"
+	  ],
+	  "default": 1
+    },
+    {
+	  "type": "toggle",
+	  "text": "附加功能",
+	  "name": "this_is_a_toggle",
+	  "default": true
+    },
+    {
+	  "type": "dropdown",
+	  "text": "选项",
+	  "name": "this_is_a_dropdown",
+	  "options": [
+	    "选项1",
+		"选项2",
+		"选项3"
+	  ],
+	  "default": 0
+    },*/
+    {
+	  "type": "input",
+	  "text": "自定义内容",
+	  "name": "this_is_a_input",
+	  "default": "在此输入.."
+    }
+  ]
+}

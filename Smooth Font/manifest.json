@@ -1,0 +1,68 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§6更平滑的游戏字体!\n§c注意: 添加或删除本资源包后你需要重启游戏来完全应用更改\n§6版本: 0.0.1\n作者: Minecraft Kit开发团队§r",
+        "name": "§e基岩版平滑字体包§r",
+        "uuid": "fa9f2f5c-dd2c-4f08-b4f2-fe2895788bdc",
+        "version": [0,0,1],
+        "min_engine_version":[1,0,4]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "faf762c8-8ab8-458c-a708-611e34d21ef2",
+            "version": [0,0,1]
+        }
+    ],
+    
+    "settings": [
+    {
+	  "type": "label",
+	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 更换游戏字体为平滑字体§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
+	},
+    /*{
+	  "type": "slider",
+	  "text": "滑条",
+	  "name": "this_is_a_slider",
+	  "min": 1,
+	  "max": 20,
+	  "default": 1
+    },*/
+    /*{
+	  "type": "step_slider",
+	  "text": "滑块",
+	  "name": "this_is_a_step_slider",
+	  "steps": [
+	    "选项1",
+		"选项2",
+		"选项3",
+		"选项4",
+		"选项5"
+	  ],
+	  "default": 1
+    },*/
+    {
+	  "type": "toggle",
+	  "text": "强制使用Unicode字体",
+	  "name": "this_is_a_toggle",
+	  "default": true
+    }/*,
+    {
+	  "type": "dropdown",
+	  "text": "选项",
+	  "name": "this_is_a_dropdown",
+	  "options": [
+	    "选项1",
+		"选项2",
+		"选项3"
+	  ],
+	  "default": 0
+    },
+    {
+	  "type": "input",
+	  "text": "自定义内容",
+	  "name": "this_is_a_input",
+	  "default": "在此输入.."
+    }*/
+  ]
+}
