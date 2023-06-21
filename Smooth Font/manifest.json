@@ -1,5 +1,6 @@
 {
     "format_version": 1,
+
     "header": {
         "description": "§6更平滑的游戏字体!\n§c注意: 添加或删除本资源包后你需要重启游戏来完全应用更改\n§6版本: 0.0.1\n作者: Minecraft Kit开发团队§r",
         "name": "§e基岩版平滑字体包§r",
@@ -7,6 +8,7 @@
         "version": [0,0,1],
         "min_engine_version":[1,0,4]
     },
+
     "modules": [
         {
             "type": "resources",
@@ -14,7 +16,7 @@
             "version": [0,0,1]
         }
     ],
-    
+
     "settings": [
     {
 	  "type": "label",
