@@ -1,5 +1,6 @@
 {
     "format_version": 1,
+
     "header": {
         "description": "§6随心定义你的游戏徽标!\n§c注意: 游戏徽标可通过资源包右下方的设置按钮更改,初始为游戏默认.\n§6版本: 1.0.0\n作者: Minecraft Kit开发团队§r",
         "name": "§e徽标切换器§r",
@@ -7,6 +8,7 @@
         "version": [1,0,0],
         "min_engine_version":[1,2,5]
     },
+
     "modules": [
         {
             "type": "resources",
@@ -14,6 +16,7 @@
             "version": [1,0,0]
         }
     ],
+
     "subpacks": [
         {
             "folder_name": "1.12",
@@ -127,7 +130,7 @@
         },
         如需添加子包请参考此格式*/
     ],
-    
+
     "settings": [
     {
 	  "type": "label",

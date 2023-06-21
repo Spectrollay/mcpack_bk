@@ -2,25 +2,25 @@
     "format_version": 1,
 
     "header": {
-        "description": "§6请将本资源包置于全局资源顶部\n适配版本: 1.20.0\n作者: Minecraft Kit开发团队§r",
-        "name": "§e中文译名修正包§r",
-        "uuid": "7a613ccc-40b2-75da-8e7f-7f4e5ee69dcb",
-        "version": [1,20,5],
+        "description": "§6移除佩戴南瓜头时的视野遮罩\n版本: 1.0.0\n作者: Minecraft Kit开发团队§r",
+        "name": "§e更好的南瓜头§r",
+        "uuid": "ee9a8d0d-2b82-c993-7156-fd7098ff5390",
+        "version": [1,0,0],
         "min_engine_version":[1,0,4]
     },
 
     "modules": [
         {
             "type": "resources",
-            "uuid": "1c1c81cc-a4aa-1fb4-41f3-de9c5ea945b2",
-            "version": [1,20,5]
+            "uuid": "ffa06def-4b6d-98a6-f70d-1099321681c8",
+            "version": [1,0,0]
         }
     ],
 
     "settings": [
     {
 	  "type": "label",
-	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 修正基岩版的离谱翻译§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
+	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 移除佩戴南瓜头时的视野遮罩§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
 	}/*,
     {
 	  "type": "slider",
