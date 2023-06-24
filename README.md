@@ -6,7 +6,11 @@
 
 <div align="center">
 
+![Title](images/minceraft.png)
+
 <h1>基岩版工具包</h1>
+
+![1.20 - Trails & Tales](images/1.20_KeyArt.jpg)
 
 <h3>客制化你的基岩版游戏体验!</h3>
 
@@ -25,9 +29,9 @@
 
 <h4>项目包含:</h4>
 
-- **中文译名修正**
+- **译名修正**
 
-    - [前往模块介绍](/Chinese%20Translation%20Revision/README.md)
+    - [前往模块介绍](/Translation%20Revision/README.md)
 
 - **游戏徽标切换**
 
@@ -68,6 +72,10 @@
 - **更好的望远镜**
 
     - [前往模块介绍](/Better%20Spyglass/README.md)
+
+- **圆形移动摇杆**
+
+    - [前往模块介绍](/Circular%20Joystick/README.md)
 
 <h4>近期更新:</h4>
 

@@ -6,7 +6,11 @@
 
 <div align="center">
 
+![Title](images/minceraft.png)
+
 <h1>Bedrock Edition Kit</h1>
+
+![1.20 - Trails & Tales](images/1.20_KeyArt.jpg)
 
 <h3>Customize your BE gameplay experience!</h3>
 
@@ -25,9 +29,9 @@
 
 <h4>Project Contains:</h4>
 
-- **Chinese Translation Revision**
+- **Translation Revision**
 
-    - [Turn to module description](/Chinese%20Translation%20Revision/README-en_US.md)
+    - [Turn to module description](/Translation%20Revision/README-en_US.md)
 
 - **Title Switcher**
 
@@ -68,6 +72,10 @@
 - **Better Spyglass**
 
     - [Turn to module description](/Better%20Spyglass/README-en_US.md)
+
+- **Circular Joystick**
+
+    - [Turn to module description](/Circular%20Joystick/README-en_US.md)
 
 <h4>Recently Update:</h4>
 
