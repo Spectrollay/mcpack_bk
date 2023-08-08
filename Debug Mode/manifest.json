@@ -1,0 +1,77 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "§6解锁一些在发行版本中被隐藏的特性\n模块版本: 20.0.0 | 适配版本: 1.20.0.01\n作者: Minecraft Kit开发团队§r",
+		"name": "§e调试模式§r",
+		"uuid": "6f969613-5d2a-26c4-251d-af2777646733",
+		"version": [20,0,0],
+		"min_engine_version": [1,0,4]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "92bf82e2-f0ab-f47f-e93b-2deba3e71e2a",
+			"version": [20,0,0]
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "§6本资源包为基岩版工具包子模块\n\n功能: 解锁一些在发行版本中被隐藏的特性\n\n注意: 一般情况下仅完全适配单个游戏版本,其余情况请自行测试§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r\n "
+		},
+		{
+			"type": "step_slider",
+			"text": "模式控制",
+			"name": "this_is_a_step_slider",
+			"steps": [
+				"1",
+				"2",
+				"3"
+			],
+			"default": 0
+		},
+		{
+			"type": "slider",
+			"text": "效率控制",
+			"name": "this_is_a_slider",
+			"min": 0,
+			"max": 100,
+			"default": 0
+		},
+		{
+			"type": "dropdown",
+			"text": "等级控制",
+			"name": "this_is_a_dropdown",
+			"options": [
+				"等级1",
+				"等级2",
+				"等级3",
+				"等级4",
+				"等级5"
+			],
+			"default": 0
+		},
+		{
+			"type": "label",
+			"text": "状态: §a已解锁§r\nOre UI: §c不支持§r"
+		},
+		{
+			"type": "toggle",
+			"text": "附加功能",
+			"name": "this_is_a_toggle",
+			"default": true
+		},
+		{
+			"type": "toggle",
+			"text": "附加组件",
+			"name": "this_is_a_toggle",
+			"default": true
+		},
+		{
+			"type": "input",
+			"text": "开发者控制台",
+			"name": "this_is_a_input",
+			"default": "/"
+		}
+	]
+}

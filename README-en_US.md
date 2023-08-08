@@ -8,17 +8,17 @@
 
 ![Title](images/minceraft.png)
 
-<h1>Bedrock Edition Kit</h1>
+<h1>Bedrock Edition Toolkit</h1>
 
 ![1.20 - Trails & Tales](images/1.20_KeyArt.jpg)
 
 <h3>Customize your BE gameplay experience!</h3>
 
-![Size](https://img.shields.io/github/repo-size/Spectrollay/mcpack_bk?color=skyblue)   ![Stars](https://img.shields.io/github/stars/Spectrollay/mcpack_bk?color=greenyellow)   ![Downloads](https://img.shields.io/github/downloads/Spectrollay/mcpack_bk/total)
-
 [![Release](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=20A162&label=release)](https://github.com/Spectrollay/mcpack_bk/releases/latest)   [![Latest](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=43B244&include_prereleases&label=latest)](https://github.com/Spectrollay/mcpack_bk/releases)   [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ff69b4)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Not%20Available%20Yet-blue)](https://en-telegram.com)   [![QQ-Group](https://img.shields.io/badge/QQ-Chat-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WVA6aPqtv99hiYleW7vUq5OsBIufCAB1&authKey=B0%2BaXMCTqnmQrGh0wzCZTyWTIPyHS%2FPEM5QXcFfVwroFowNnzs6Yg1er1%2F8Fekqp&noverify=0&group_code=833473609)   [![YH-Group](https://img.shields.io/badge/YunHu-Chat-blue)](https://yhfx.jwznb.com/share?key=VyTE7W7sLwRl&ts=1684642802)
+![Size](https://img.shields.io/github/repo-size/Spectrollay/mcpack_bk?color=skyblue)   ![Stars](https://img.shields.io/github/stars/Spectrollay/mcpack_bk?color=greenyellow)   ![Downloads](https://img.shields.io/github/downloads/Spectrollay/mcpack_bk/total)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Spectrollay_MCW)   [![QQ-Group](https://img.shields.io/badge/QQ-Chat-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WVA6aPqtv99hiYleW7vUq5OsBIufCAB1&authKey=B0%2BaXMCTqnmQrGh0wzCZTyWTIPyHS%2FPEM5QXcFfVwroFowNnzs6Yg1er1%2F8Fekqp&noverify=0&group_code=833473609)   [![YH-Group](https://img.shields.io/badge/YunHu-Chat-blue)](https://yhfx.jwznb.com/share?key=VyTE7W7sLwRl&ts=1684642802)
 
 </div>
 
@@ -41,7 +41,7 @@
 
     - [Turn to module description](/Panorama%20Switcher/README-en_US.md)
 
-- **Debug Mode(Developer Version)**
+- **Debug Mode**
 
     - [Turn to module description](/Debug%20Mode/README-en_US.md)
 

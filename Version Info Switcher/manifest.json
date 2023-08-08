@@ -1,0 +1,89 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "§6切换不同的游戏版本信息\n模块版本: 1.0.0 | 适配版本: 理论全部\n作者: Minecraft Kit开发团队\n§c注意: 本资源包需搭配中文译名修正包使用并置于其之上§r",
+		"name": "§e版本信息切换§r",
+		"uuid": "9ed06fce-4c8d-8501-1d35-883aad71a6a5",
+		"version": [1,0,0],
+		"min_engine_version": [1,0,4]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9848a0e2-8bfd-e60d-4612-7fba39db6328",
+			"version": [1,0,0]
+		}
+	],
+    "subpacks": [
+        {
+            "folder_name": "beta",
+            "name": " §gBeta",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "preview",
+            "name": " §gPreview",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "release",
+            "name": " §gRelease",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "default",
+            "name": " §g默认",
+            "memory_tier": 1
+        }
+    ],
+	"settings": [
+		{
+			"type": "label",
+			"text": "§6本资源包为基岩版工具包子模块\n\n功能: 切换不同的游戏版本信息\n\n注意: 本资源包需搭配中文译名修正包使用并置于其之上§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r\n "
+		},/*
+		{
+			"type": "step_slider",
+			"text": "滑块",
+			"name": "this_is_a_step_slider",
+			"steps": [
+				"选项1",
+				"选项2",
+				"选项3",
+				"选项4",
+				"选项5"
+			],
+			"default": 0
+		},
+		{
+			"type": "slider",
+			"text": "滑条",
+			"name": "this_is_a_slider",
+			"min": 0,
+			"max": 20,
+			"default": 0
+		},
+		{
+			"type": "dropdown",
+			"text": "选项",
+			"name": "this_is_a_dropdown",
+			"options": [
+				"选项1",
+				"选项2",
+				"选项3"
+			],
+			"default": 0
+		},
+		{
+			"type": "toggle",
+			"text": "开关",
+			"name": "this_is_a_toggle",
+			"default": true
+		},*/
+		{
+			"type": "input",
+			"text": "开发者控制台",
+			"name": "this_is_a_input",
+			"default": "/"
+		}
+	]
+}

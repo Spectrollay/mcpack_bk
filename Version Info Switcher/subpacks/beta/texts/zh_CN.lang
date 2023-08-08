@@ -1,0 +1,23 @@
+menu.play=游玩测试版	#
+menu.beta=Beta!!!	#
+playscreen.beta_worlds=测试版世界	#
+playscreen.beta_legacy_worlds=旧的测试版世界	#
+
+beta.loading.1=当你处于测试版中时你只能和其他同样处于测试版中的好友一起游玩！	#
+beta.loading.2=请记住，当你处于测试版中时将不能在Realms和大多数服务器上进行游戏。	#
+beta.loading.3=你在测试版中购买的一切都是真实有效的，即使你离开了测试版它们也不会消失。	#
+beta.loading.4=在测试版中加载世界前别忘了创建备份。	#
+beta.loading.5=请在bugs.mojang.com上报告你所发现的所有漏洞！	#
+beta.loading.6=想和我们聊聊测试版？前往discord.gg/Minecraft加入Minecraft Discord！	#
+beta.loading.7=关于新的功能你有什么好的建议吗？快去feedback.minecraft.net上的测试版论坛告诉我们吧！	#
+beta.loading.8=发现了漏洞？前往bugs.mojang.com向我们汇报！	#
+beta.loading.9=如果你的好友无法加入你的世界，那么可能是他们没有跟你一样处在测试版中。	#
+beta.loading.10=请记得在测试版中要经常备份你的世界。	#
+beta.loading.11=感谢你参加测试！	#
+beta.loading.12=离开测试版时需要帮助？请前往aka.ms/MinecraftXIP获取帮助。	#
+beta.loading.13=测试版程序目前仅在安卓设备上可用。	#
+beta.loading.14=请记住，测试版并不是最终产品。你可能会遇到崩溃、故障或其他奇怪的东西。	#
+beta.loading.15=我们欢迎你的反馈！请前往feedback.minecraft.net告诉我们你的想法！	#
+beta.loading.16=你知道你可以在discord.gg/Minecraft上与我们的开发者聊天吗？	#
+beta.loading.17=不用担心崩溃，因为在测试版中的崩溃意味着之后的崩溃会少一些！	#
+beta.loading.18=中文译名修正包由Minecraft Kit开发团队制作!	#
