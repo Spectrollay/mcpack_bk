@@ -1,5 +1,5 @@
 {
-	"format_version": 1,
+	"format_version": 2,
 	"header": {
 		"description": "§6不可疑的方块\n模块版本: 1.0.0 | 适配版本: 1.19.70及以上\n作者: Minecraft Kit开发团队§r",
 		"name": "§e关闭调试水印§r",

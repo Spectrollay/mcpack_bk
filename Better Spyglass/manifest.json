@@ -1,5 +1,5 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
         "description": "§6更改使用望远镜时的视野限制\n模块版本: 1.0.0 | 适配版本: 1.17.0及以上\n作者: Minecraft Kit开发团队§r",
         "name": "§e更好的望远镜§r",

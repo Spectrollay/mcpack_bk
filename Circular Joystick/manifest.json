@@ -1,5 +1,5 @@
 {
-	"format_version": 1,
+	"format_version": 2,
 	"header": {
 		"description": "§6修改移动摇杆贴图为初始设计的圆形\n模块版本: 1.0.0 | 适配版本: 1.19.10及以上\n作者: Minecraft Kit开发团队§r",
 		"name": "§e圆形移动摇杆§r",
