@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"header": {
-		"description": "§6解锁一些在发行版本中被隐藏的特性\n模块版本: 20.12.0 | 适配版本: 1.20.12.01\n作者: Minecraft Kit开发团队§r",
+		"description": "§6解锁一些在发行版本中被隐藏的特性\n模块版本: 20.12.0 | 适配版本: 1.20.12.01\n作者: Minecraft Kit开发团队\n§c注意: 1)需搭配中文译名修正包使用,否则部分字符串将无法正确显示 2)一般情况下仅完全适配单个游戏版本,其他版本请自行测试§r",
 		"name": "§e调试模式§r",
 		"uuid": "6f969613-5d2a-26c4-251d-af2777646733",
 		"version": [20,12,0],
@@ -17,7 +17,7 @@
 	"settings": [
 		{
 			"type": "label",
-			"text": "§6本资源包为基岩版工具包子模块\n\n功能: 解锁一些在发行版本中被隐藏的特性\n\n注意: 一般情况下仅完全适配单个游戏版本,其余情况请自行测试§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r\n "
+			"text": "§6本资源包为基岩版工具包子模块\n\n功能: 解锁一些在发行版本中被隐藏的特性\n\n§c注意: 1)需搭配中文译名修正包使用,否则部分字符串将无法正确显示 2)一般情况下仅完全适配单个游戏版本,其他版本请自行测试§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r\n "
 		},
 		{
 			"type": "step_slider",
