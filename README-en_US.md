@@ -77,13 +77,24 @@
 
     - [Turn to module description](/Circular%20Joystick/README-en_US.md)
 
+- **Adjustable HUD**
+
+    - [Turn to module description](/Adjustable%20HUD/README.md)
+
 <h4>Recently Update:</h4>
 
-- None
+- Build Preview Update
 
 <h4>Coming Soon:</h4>
 
-- None
+- No SUS Blocks
+- Highlight Powder Snow
+- Deferred Render
+- Developer Version Helper
+- Better Touch Control Experience
+- Easy Build
+- Easy Survival
+- Redstone Display
 
 <h4>Related Links:</h4>
 
