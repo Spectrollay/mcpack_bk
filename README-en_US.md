@@ -14,12 +14,13 @@
 
 <h3>Customize your BE gameplay experience!</h3>
 
-[![Release](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=20A162&label=release)](https://github.com/Spectrollay/mcpack_bk/releases/latest)   [![Latest](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=43B244&include_prereleases&label=latest)](https://github.com/Spectrollay/mcpack_bk/releases)   [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ff69b4)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
-
 ![Size](https://img.shields.io/github/repo-size/Spectrollay/mcpack_bk?color=skyblue)   ![Stars](https://img.shields.io/github/stars/Spectrollay/mcpack_bk?color=greenyellow)   ![Downloads](https://img.shields.io/github/downloads/Spectrollay/mcpack_bk/total)
+
+[![Release](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=20A162&label=release)](https://github.com/Spectrollay/mcpack_bk/releases/latest)   [![Latest](https://img.shields.io/github/v/release/Spectrollay/mcpack_bk?color=43B244&include_prereleases&label=latest)](https://github.com/Spectrollay/mcpack_bk/releases)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Spectrollay_MCW)   [![QQ-Group](https://img.shields.io/badge/QQ-Chat-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WVA6aPqtv99hiYleW7vUq5OsBIufCAB1&authKey=B0%2BaXMCTqnmQrGh0wzCZTyWTIPyHS%2FPEM5QXcFfVwroFowNnzs6Yg1er1%2F8Fekqp&noverify=0&group_code=833473609)   [![YH-Group](https://img.shields.io/badge/YunHu-Chat-blue)](https://yhfx.jwznb.com/share?key=VyTE7W7sLwRl&ts=1684642802)
 
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ff69b4)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
 </div>
 
 <h4>Release Date:</h4>
