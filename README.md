@@ -1,6 +1,6 @@
 <div align="right">
 
-简体中文 | <a href="/README-en_US.md">English</a>
+简体中文 | <a href="/README-en_US.md">English</a> | <a href="/language_list.md">· · · ></a><br><sup>语言翻译不一定100%准确</sup>
 
 </div>
 

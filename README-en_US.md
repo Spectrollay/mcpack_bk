@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="/README.md">简体中文</a> | English
+<a href="/README.md">简体中文</a> | English | <a href="/language_list.md">· · · ></a><br><sup>Language translations may not be 100% accurate</sup>
 
 </div>
 
@@ -79,7 +79,7 @@
 
 - **Adjustable HUD**
 
-    - [Turn to module description](/Adjustable%20HUD/README.md)
+    - [Turn to module description](/Adjustable%20HUD/README-en_US.md)
 
 <h4>Recently Update:</h4>
 

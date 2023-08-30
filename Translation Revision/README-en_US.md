@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="/Translation Revision/README.md">简体中文</a> | English | 繁體中文 | 日本語
+<a href="/Translation Revision/README.md">简体中文</a> | English | <a href="/Translation Revision/README-zh_TW.md">繁體中文</a> | <a href="/Translation Revision/README-ja_JP.md">日本語</a>
 
 </div>
 
@@ -12,8 +12,7 @@
 
 <h3><a href="https://crowdin.com/project/translations-for-minecraft">Minecraft Bedrock Edition Translation(Multilingual) Crowdin</a></h3>
 
-Developed by a Russian player (who is also the Russian proofreader for Minecraft Java), this project integrates translations from the Java Edition of the game into the Bedrock Edition, and then manually supplements the words specific to the Bedrock Edition and creates resource packs.
-This project is suspected to be abandoned indefinitely.
+Developed by a Russian player (who is also the Russian proofreader for Minecraft Java), this project integrates translations from the Java Edition of the game into the Bedrock Edition, and then manually supplements the words specific to the Bedrock Edition and creates resource packs.<br>This project is suspected to be abandoned indefinitely.
 
 <hr>
 
@@ -31,7 +30,7 @@ NOT REQUIRED
 
 <hr>
 
-<h3>繁體中文(台灣) zh_TW</h3>
+<h3>繁體中文(中國台灣) zh_TW</h3>
 
 Coming Soon...
 

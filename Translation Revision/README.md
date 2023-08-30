@@ -1,6 +1,6 @@
 <div align="right">
 
-简体中文 | <a href="/Translation Revision/README-en_US.md">English</a> | 繁體中文 | 日本語
+简体中文 | <a href="/Translation Revision/README-en_US.md">English</a> | <a href="/Translation Revision/README-zh_TW.md">繁體中文</a> | <a href="/Translation Revision/README-ja_JP.md">日本語</a>
 
 </div>
 
@@ -12,8 +12,7 @@
 
 <h3><a href="https://crowdin.com/project/translations-for-minecraft">Minecraft基岩版翻译(多语言) Crowdin</a></h3>
 
-由俄罗斯玩家(同时也是Minecraft Java版的俄语校对员)开发,能将Java版的游戏翻译整合到基岩版,再由人工补足基岩版特有词条并制作成资源包.
-此项目疑似无限期弃坑.
+由俄罗斯玩家(同时也是Minecraft Java版的俄语校对员)开发,能将Java版的游戏翻译整合到基岩版,再由人工补足基岩版特有词条并制作成资源包.<br>此项目疑似无限期弃坑.
 
 <hr>
 
@@ -31,7 +30,7 @@
 
 <hr>
 
-<h3>繁體中文(台灣) zh_TW</h3>
+<h3>繁體中文(中國台灣) zh_TW</h3>
 
 即将到来...
 
