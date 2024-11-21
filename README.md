@@ -6,11 +6,11 @@
 
 <div align="center">
 
-![Title](images/minceraft.png)
+![Title](images/Minecraft.png)
 
 <h1>基岩版工具包</h1>
 
-![1.20 - Trails & Tales](images/1.20_KeyArt.jpg)
+![1.21 - Tricky Trials](images/1.21_Artwork.png)
 
 <h3>客制化你的基岩版游戏体验!</h3>
 

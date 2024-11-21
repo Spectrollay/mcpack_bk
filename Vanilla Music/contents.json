@@ -316,7 +316,19 @@
             "path": "sounds/music/game/crescent_dunes.ogg"
         },
         {
+            "path": "sounds/music/game/deeper.ogg"
+        },
+        {
             "path": "sounds/music/game/echo_in_the_wind.ogg"
+        },
+        {
+            "path": "sounds/music/game/eld_unknown.ogg"
+        },
+        {
+            "path": "sounds/music/game/endless.ogg"
+        },
+        {
+            "path": "sounds/music/game/featherfall.ogg"
         },
         {
             "path": "sounds/music/game/firebugs.ogg"
@@ -338,6 +350,9 @@
         },
         {
             "path": "sounds/music/game/infinite_amethyst.ogg"
+        },
+        {
+            "path": "sounds/music/game/komorebi.ogg"
         },
         {
             "path": "sounds/music/game/labyrinthine.ogg"
@@ -364,10 +379,22 @@
             "path": "sounds/music/game/piano3.ogg"
         },
         {
+            "path": "sounds/music/game/pokopoko.ogg"
+        },
+        {
+            "path": "sounds/music/game/puzzlebox.ogg"
+        },
+        {
             "path": "sounds/music/game/stand_tall.ogg"
         },
         {
+            "path": "sounds/music/game/watcher.ogg"
+        },
+        {
             "path": "sounds/music/game/wending.ogg"
+        },
+        {
+            "path": "sounds/music/game/yakusoku.ogg"
         },
         {
             "path": "sounds/music/game/creative/creative1.ogg"
@@ -436,6 +463,12 @@
             "path": "sounds/music/game/records/chirp.ogg"
         },
         {
+            "path": "sounds/music/game/records/creator.ogg"
+        },
+        {
+            "path": "sounds/music/game/records/creator_music_box.ogg"
+        },
+        {
             "path": "sounds/music/game/records/far.ogg"
         },
         {
@@ -449,6 +482,9 @@
         },
         {
             "path": "sounds/music/game/records/pigstep_master.ogg"
+        },
+        {
+            "path": "sounds/music/game/records/precipice.ogg"
         },
         {
             "path": "sounds/music/game/records/relic.ogg"

@@ -6,11 +6,11 @@
 
 <div align="center">
 
-![Title](images/minceraft.png)
+![Title](images/Minecraft.png)
 
 <h1>Bedrock Edition Toolkit</h1>
 
-![1.20 - Trails & Tales](images/1.20_KeyArt.jpg)
+![1.21 - Tricky Trials](images/1.21_Artwork.png)
 
 <h3>Customize your BE gameplay experience!</h3>
 

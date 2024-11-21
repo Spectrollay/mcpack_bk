@@ -1,23 +1,62 @@
 {
     "format_version": 1,
     "header": {
-        "description": "§6随心定义你的游戏首页!\n§6模块版本: 1.20.0 | 适配版本: 理论全部\n作者: Minecraft Kit开发团队\n§c注意: 全景图可通过资源包右下方的设置按钮更改,初始为游戏默认.§r",
+        "description": "§6随心定义你的游戏全景图!\n§6模块版本: 1.21.50 | 适配版本: 理论全部\n作者: Minecraft Kit开发团队\n§c注意: 全景图可通过资源包右下方的设置按钮更改,初始为游戏默认.§r",
         "name": "§e全景图切换器§r",
         "uuid": "66ee3713-9f30-abdd-5863-56c333e4667e",
-        "version": [1,20,0],
-        "min_engine_version": [1,2,5]
+        "version": [1,21,50],
+        "min_engine_version":[1,2,5]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "2274d736-a8fb-9c1f-6f6f-7217773e7416",
-            "version": [1,20,0]
+            "version": [1,21,50]
         }
     ],
     "subpacks": [
         {
-            "folder_name": "edu_EE_HOC2023",
-            "name": " §c教育版 §g编程一小时: 逃出迷宅",
+            "folder_name": "edu_PE3",
+            "name": " §c教育版 §g地球脉动3",
+            "memory_tier": 1
+        },{
+            "folder_name": "edu_HOC2024",
+            "name": " §c教育版 §g编程一小时: AI世代",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_AM2023",
+            "name": " §c教育版 §g阿尔忒弥斯计划",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_FP2",
+            "name": " §c教育版 §g冰冻星球2",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_HOC2023",
+            "name": " §c教育版 §g编程一小时: 逃离庄园",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_HOC2021",
+            "name": " §c教育版 §g编程一小时: 时间之旅",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_12103",
+            "name": " §c教育版 §g1.21.03 云更新",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_12012",
+            "name": " §c教育版 §g1.20.12 足迹与故事",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "edu_11952",
+            "name": " §c教育版 §g1.19.52 荒野更新",
             "memory_tier": 1
         },
         {
@@ -111,6 +150,16 @@
             "memory_tier": 1
         },
         {
+            "folder_name": "trial",
+            "name": " §c基岩版 §g1.21 棘巧试炼",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "pale",
+            "name": " §c基岩版 §g1.21.50 冬季小更新",
+            "memory_tier": 1
+        },
+        {
             "folder_name": "Christmas_2017",
             "name": " §g2017年圣诞节",
             "memory_tier": 1
@@ -147,54 +196,55 @@
         },
         如需添加子包请参考此格式*/
     ],
+    
     "settings": [
-        {
-            "type": "label",
-            "text": "§6本资源包为基岩版工具包子模块\n\n功能: 切换游戏首页全景图§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r\n "
-        },/*
-        {
-			"type": "step_slider",
-			"text": "滑块",
-			"name": "this_is_a_step_slider",
-			"steps": [
-				"选项1",
-				"选项2",
-				"选项3",
-				"选项4",
-				"选项5"
-			],
-			"default": 0
-		},
-		{
-			"type": "slider",
-			"text": "滑条",
-			"name": "this_is_a_slider",
-			"min": 0,
-			"max": 20,
-			"default": 0
-		},
-		{
-			"type": "dropdown",
-			"text": "选项",
-			"name": "this_is_a_dropdown",
-			"options": [
-				"选项1",
-				"选项2",
-				"选项3"
-			],
-			"default": 0
-		},
-		{
-			"type": "toggle",
-			"text": "开关",
-			"name": "this_is_a_toggle",
-			"default": true
-		},*/
-        {
-            "type": "input",
-            "text": "自定义",
-            "name": "this_is_a_input",
-            "default": ""
-        }
-    ]
+    {
+	  "type": "label",
+	  "text": "§6本资源包为基岩版工具包子模块\n\n功能: 更换游戏全景图§r\n\n发布:\n   (基岩版工具包)https://github.com/Spectrollay/mcpack_bk\n   (中文译名修正)https://github.com/Spectrollay/mclang_cn\n§c版权所有,侵权必究§r"
+	},
+    /*{
+	  "type": "slider",
+	  "text": "滑条",
+	  "name": "this_is_a_slider",
+	  "min": 1,
+	  "max": 20,
+	  "default": 1
+    },*/
+    /*{
+	  "type": "step_slider",
+	  "text": "滑块",
+	  "name": "this_is_a_step_slider",
+	  "steps": [
+	    "选项1",
+		"选项2",
+		"选项3",
+		"选项4",
+		"选项5"
+	  ],
+	  "default": 1
+    },
+    {
+	  "type": "toggle",
+	  "text": "附加功能",
+	  "name": "this_is_a_toggle",
+	  "default": true
+    },
+    {
+	  "type": "dropdown",
+	  "text": "选项",
+	  "name": "this_is_a_dropdown",
+	  "options": [
+	    "选项1",
+		"选项2",
+		"选项3"
+	  ],
+	  "default": 0
+    },*/
+    {
+	  "type": "input",
+	  "text": "自定义内容",
+	  "name": "this_is_a_input",
+	  "default": "在此输入.."
+    }
+  ]
 }
